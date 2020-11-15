@@ -1,2 +1,4 @@
 /node_modules
+#hide token
 /static/token.js
+config.json
