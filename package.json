@@ -1,0 +1,25 @@
+{
+  "name": "right_bot",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kostanios/right_bot.git"
+  },
+  "author": "Kotov Konstantin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kostanios/right_bot/issues"
+  },
+  "homepage": "https://github.com/Kostanios/right_bot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
